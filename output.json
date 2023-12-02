@@ -1,0 +1,292 @@
+[
+    {
+        "pergunta": "1. Este signo significa ",
+        "alternativas": [
+            "(A) No hay que girar a la izquierda. ",
+            "(B) No hay giros a la izquierda. ",
+            "(C) Ruta de camiones a la izquierda. ",
+            "(D) No entres. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "2.  Esta señal de tráfico significa ",
+        "alternativas": [
+            "(A) Prohibido volver a la izquierda. ",
+            "(B) No hay estacionamiento. ",
+            "(C) No hay giros a la izquierda. ",
+            "(D) No entres. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "3. En carreteras resbaladizas, usted debe: ",
+        "alternativas": [
+            "(A) Ve más rápido. ",
+            "(B) Decelerar. ",
+            "(C) No conduzca a más de 20 mph. ",
+            "(D) Siga el límite de velocidad, con precaución. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "4. Al cambiar de carril, puede verificar su punto ciego: ",
+        "alternativas": [
+            "(A) Uso del espejo retrovisor interno ",
+            "(B) Gire la cabeza y mire por encima del hombro. ",
+            "(C) Uso de espejos retrovisores internos y externos. ",
+            "(D) Usando el espejo retrovisor exterior. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "5. Cuando esté en carriles en la carretera: ",
+        "alternativas": [
+            "(A) Puede detenerse para buscar una dirección. ",
+            "(B) Puede hacer una devolución o regresar si ingresa a la rampa de entrada incorrecta de la autopista. ",
+            "(C) Puedes detenerte para dejar salir a los pasajeros. ",
+            "(D) Puede hacer una devolución o regresar si ingresa a la rampa de entrada incorrecta de la autopista. "
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "6. Esta señal de tráfico significa ",
+        "alternativas": [
+            "(A) Una carretera se une a la derecha. ",
+            "(B) Camino sinuoso por delante. ",
+            "(C) Giro brusco a la derecha. ",
+            "(D) El camino por delante hace un giro brusco a la derecha y luego a la izquierda. "
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "7. Esta señal de tráfico significa ",
+        "alternativas": [
+            "(A) No pases. ",
+            "(B) Manténgalo bien. ",
+            "(C) No te pongas rojo. ",
+            "(D) No pases. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "8. Cuando conduzca bajo la lluvia, debe ",
+        "alternativas": [
+            "(A) Utilice luces bajas. ",
+            "(B) No utilice luces. ",
+            "(C) Use luces de estacionamiento. ",
+            "(D) Use luces altas. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "9. Debe apoyarse contra el costado de la carretera y permitir el paso de un vehículo de emergencia ",
+        "alternativas": [
+            "(A) Ninguna de las anteriores. ",
+            "(B) Solo si se está acercando. ",
+            "(C) Solo si te está siguiendo. ",
+            "(D) Independientemente de su dirección. "
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "10. Este signo significa: ",
+        "alternativas": [
+            "(A) Comienza la carretera dividida. ",
+            "(B) Baches en el camino. ",
+            "(C) Carretera dividida termina. ",
+            "(D) Curvas por delante. "
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "11. Causas del alcohol ",
+        "alternativas": [
+            "(A) Pérdida de concentración. ",
+            "(B) Todos los demás. ",
+            "(C) Mal juicio. ",
+            "(D) Juicio más lento. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "12. Lo más importante que debe recordar sobre la gestión de la velocidad y las curvas es: ",
+        "alternativas": [
+            "(A) Reduzca la velocidad antes de entrar en la esquina. ",
+            "(B) Conduzca al límite de velocidad indicado al ingresar a la curva y luego disminuya la velocidad en la parte más cerrada de la curva. ",
+            "(C) Acelere suavemente antes de entrar en la curva. ",
+            "(D) Conduzca al límite de velocidad de la carretera, antes, a lo largo y después de la curva. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "13. Para prepararse para cualquier cosa que se le presente, debe: ",
+        "alternativas": [
+            "(A) Manténgase enfocado en medio del camino. ",
+            "(B) Examine continuamente toda la carretera y los arcenes. ",
+            "(C) Mira hacia adelante todo el tiempo. ",
+            "(D) Conduzca con el pie izquierdo apoyado ligeramente en el pedal del freno. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "14. Si un conductor que se aproxima viene hacia usted en su carril, usted debe: ",
+        "alternativas": [
+            "(A) Gire a la izquierda, toque la bocina y frene. ",
+            "(B) Gire a la derecha, toque la bocina y frene. ",
+            "(C) Permanezca en el centro de su carril, toque la bocina y frene. ",
+            "(D) Conduzca hacia la derecha, toque la bocina y acelere. "
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "15. Este signo significa: ",
+        "alternativas": [
+            "(A) Las multas se duplican en la zona de trabajo. ",
+            "(B) No hay giros a la izquierda. ",
+            "(C) No bloquee la intersección. ",
+            "(D) Baja depuración. "
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "16. Esta señal de tráfico significa ",
+        "alternativas": [
+            "(A) Cuando el pavimento esté mojado, reduzca la velocidad. ",
+            "(B) Pendiente pronunciada por delante. ",
+            "(C) El tráfico aumenta por delante. ",
+            "(D) La cabecera de la carretera serpentea una serie de vueltas o vueltas. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "17. Cuando conduzca por un área donde jueguen niños, debe esperar que: ",
+        "alternativas": [
+            "(A) Corre frente a ti sin mirar. ",
+            "(B) No cruce a menos que estén con un adulto. ",
+            "(C) Para saber cuándo es seguro cruzar. ",
+            "(D) Deténgase en la acera antes de cruzar la calle. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "18. Este signo significa: ",
+        "alternativas": [
+            "(A) Señal de tráfico. ",
+            "(B) Cruce T. ",
+            "(C) Gire a la izquierda. ",
+            "(D) Bomberos. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "19. La regla de los cuatro segundos se refiere a cómo se debe: ",
+        "alternativas": [
+            "(A) Sigue a otro coche. ",
+            "(B) Ceder ante otros coches. ",
+            "(C) Gire en las señales de alto. ",
+            "(D) Cruzando una intersección. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "20. Si desea salir de una autopista pero perdió la salida, debe: ",
+        "alternativas": [
+            "(A) Haga un giro en U a través de la mediana. ",
+            "(B) Indique a un oficial de policía que lo acompañe de regreso a su salida. ",
+            "(C) Vaya a la siguiente salida y salga de la autopista allí. ",
+            "(D) Tire de su hombro y retroceda el automóvil hasta la salida. "
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "21. La ley otorga a ________ el derecho de paso en las intersecciones. ",
+        "alternativas": [
+            "(A) Nadie. ",
+            "(B) Los conductores giran a la derecha. ",
+            "(C) Conductores que van recto. ",
+            "(D) Conductores girando a la izquierda. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "22. Un peatón está cruzando su carril, pero no hay un cruce peatonal señalizado. Usted debe: ",
+        "alternativas": [
+            "(A) Deténgase y deje que el peatón cruce la calle. ",
+            "(B) Asegúrese de que el peatón lo vea, pero siga conduciendo. ",
+            "(C) Conduzca con cuidado alrededor del peatón. ",
+            ""
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "(A) Señal para 100 pies antes de girar. ",
+        "alternativas": [
+            "(B) Muévete hacia el lado izquierdo de tu carril. ",
+            "(C) Evite conducir por el carril bici. ",
+            "",
+            "24. Para girar a la derecha en la esquina, usted: "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "(B) Debes entrar en el carril bici antes de girar. ",
+        "alternativas": [
+            "(C) No puedes entrar en el carril bici. ",
+            "",
+            "25. Puedes bloquear legalmente una intersección: ",
+            "(A) Bajo ninguna circunstancia. "
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "(C) Durante el tráfico de la hora punta. ",
+        "alternativas": [
+            "",
+            "26. Un conductor que está tomando un medicamento de venta libre debe ",
+            "(A) Sigue conduciendo. ",
+            "(B) Conduzca solo durante el día. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "(D) En su lugar, beba alcohol. ",
+        "alternativas": [
+            "",
+            "27. Para una licencia de Clase D, ¿no puede probar más de cuántas pruebas de carretera en un período de 12 meses? ",
+            "(A) 12 ",
+            "(B) 5 "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "(D) 3 ",
+        "alternativas": [
+            "",
+            "28. ¿Cuál de los siguientes documentos debe presentarse como prueba de baja honorable? ",
+            "(A) Un DD-214 que indica baja honorable. ",
+            "(B) Un formulario de alta honorable. "
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "(D) Un DD-215 que indica baja honorable. ",
+        "alternativas": [
+            "",
+            "29. ¿Cuántas horas de conducción supervisada al volante se necesitan para obtener un JOL? ",
+            "(A) 12 p.m. ",
+            "(B) 30 horas. "
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "(D) 40 horas. ",
+        "alternativas": [
+            "",
+            "30. Una luz roja parpadeante significa: ",
+            "(A) La persona que conduce el coche. ",
+            "(B) Pasajeros y conductor siempre que estén en el coche.  "
+        ],
+        "resposta": 3
+    }
+]
