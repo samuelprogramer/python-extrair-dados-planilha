@@ -1,4 +1,4 @@
-import pandas as pd
+
 import json
 from openpyxl import load_workbook
 
@@ -84,6 +84,7 @@ def process_line(ws, line):
 
         alternativas = []
         for i in range(4):
+            print(i)
             if resp == 0:
                 resp = isResponse(ws, line, i)
             
