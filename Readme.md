@@ -5,12 +5,12 @@ Este script em Python processa uma planilha Excel específica, extrai informaç�
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas necessárias (`pandas`, `openpyxl`)
+- Bibliotecas necessárias (`openpyxl`)
 
 Você pode instalar as bibliotecas usando o seguinte comando:
 
 ```bash
-pip install pandas openpyxl
+pip install openpyxl
 ```
 
 ## Uso
